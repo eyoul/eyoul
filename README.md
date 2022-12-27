@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyoul&" alt="eyoul" /></p>
 
-No README, .gitignore, or license
+No README.md, .gitignore, or license
