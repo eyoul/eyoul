@@ -1,5 +1,3 @@
-Name: alx-pre_course
-Description: I'm now a ALX Student, this is my first repository as a full-stack engineer
 <h1 align="center">Hi 👋, I'm Eyoul</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://i2.wp.com/i.giphy.com/media/26tn33aiTi1jkl6H6/giphy-downsized.gif?w=770&ssl=1">
