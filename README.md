@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **AirBnB clone**
 
-- 🌱 I’m currently learning **React, Django**
+- 🌱 I’m currently learning **React, Django, Flask**
 
 - 📫 How to reach me **eyoulshimeles2@gmail.com**
 
