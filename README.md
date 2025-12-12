@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/joel746425061" target="blank"><img src="https://img.shields.io/twitter/follow/joel746425061?logo=twitter&style=for-the-badge" alt="joel746425061" /></a> </p>
 
-- 🔭 I’m currently working on **AirBnB clone**
+- 🔭 I’m currently working on **Django and Flask Projects**
 
-- 🌱 I’m currently learning **React, Django, Flask**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 📫 How to reach me **eyoulshimeles2@gmail.com**
 
